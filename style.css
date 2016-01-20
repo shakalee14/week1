@@ -1,0 +1,22 @@
+p {font-style: Helvetica;}
+
+div {background-color: Gray;
+text-align: center}
+
+/*make hyperlink red and get rid of underline*/
+a { color: red;
+text-decoration: none;}
+
+/* hover*/ 
+a:hover {background-color: green;}
+
+/*centering div*/
+.center div {
+    margin: auto;
+    width: 60%;
+    border: 3px;
+    padding: 10px;}
+
+
+
+
